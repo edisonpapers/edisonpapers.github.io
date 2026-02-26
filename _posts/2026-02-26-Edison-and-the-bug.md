@@ -1,6 +1,6 @@
 ---
 title: Edison Invents the Technical 'Bug'
-date: 2025-01-01
+date: 2025-01-02
 categories: [Edison, Exhibits]
 tags: [Edison, Bug, Telegraph]     # TAG names should always be lowercase
 ---
