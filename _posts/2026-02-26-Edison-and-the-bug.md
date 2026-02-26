@@ -1,7 +1,7 @@
 ---
 title: Edison Invents the Technical 'Bug'
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORY, SUB_CATEGORY]
+date: 2025
+categories: [Edison, Exhibits]
 tags: [Edison, Bug, Telegraph]     # TAG names should always be lowercase
 ---
 
